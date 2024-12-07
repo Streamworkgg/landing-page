@@ -90,3 +90,13 @@ h1 {
 .be-notified svg {
   transform: scale(1.5);
 }
+
+@media (max-width: 768px) {
+
+  h1 {
+
+    font-size: 32px;
+    line-height: 40px;
+
+  }
+}
