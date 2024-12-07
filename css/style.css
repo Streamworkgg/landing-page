@@ -104,6 +104,7 @@ h1 {
   .tagline span {
     font-size: 13px;
     line-height: 21px;
+    letter-spacing: 0.5px;
   }
 
   .sub-header {
