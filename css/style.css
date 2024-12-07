@@ -92,7 +92,9 @@ h1 {
 }
 
 @media (max-width: 768px) {
-
+  nav {
+    margin: 2rem auto;
+  }
   h1 {
 
     font-size: 32px;
